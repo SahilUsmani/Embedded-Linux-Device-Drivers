@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/File_Operations/basic/sudf.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/sahil/ELDD/File_Operations/basic/sudf.ko /home/training/sahil/ELDD/File_Operations/basic/sudf.o /home/training/sahil/ELDD/File_Operations/basic/sudf.mod.o;  true

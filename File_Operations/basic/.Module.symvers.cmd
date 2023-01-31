@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/File_Operations/basic/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/sahil/ELDD/File_Operations/basic/modules.order | scripts/mod/modpost -m -a  -o /home/training/sahil/ELDD/File_Operations/basic/Module.symvers -e -i Module.symvers   -T -
