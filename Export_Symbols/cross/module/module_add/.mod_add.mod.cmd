@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/mod_add.mod := { echo  /home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/mod_add.o;  echo; } > /home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/mod_add.mod

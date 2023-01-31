@@ -1,0 +1,5 @@
+
+In the main Makefile 
+always write dependent module first and then the independent one like this:-
+
+obj-y := dependent_mod/ independent_mod/

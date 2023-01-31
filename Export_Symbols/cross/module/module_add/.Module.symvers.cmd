@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/modules.order | scripts/mod/modpost -m -a  -o /home/training/sahil/ELDD/Export_Symbols/cross/module/module_add/Module.symvers -e -i Module.symvers   -T -
