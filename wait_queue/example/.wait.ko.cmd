@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/wait_queue/example/wait.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/sahil/ELDD/wait_queue/example/wait.ko /home/training/sahil/ELDD/wait_queue/example/wait.o /home/training/sahil/ELDD/wait_queue/example/wait.mod.o;  true

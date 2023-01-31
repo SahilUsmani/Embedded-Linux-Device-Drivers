@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/wait_queue/example/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/sahil/ELDD/wait_queue/example/modules.order | scripts/mod/modpost -m -a  -o /home/training/sahil/ELDD/wait_queue/example/Module.symvers -e -i Module.symvers   -T -
