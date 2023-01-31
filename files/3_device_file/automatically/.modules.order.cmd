@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/files/3_device_file/automatically/modules.order := {   echo /home/training/sahil/ELDD/files/3_device_file/automatically/char3.ko; :; } | awk '!x[$$0]++' - > /home/training/sahil/ELDD/files/3_device_file/automatically/modules.order

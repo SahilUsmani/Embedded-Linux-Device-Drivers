@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/files/3_device_file/automatically/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/sahil/ELDD/files/3_device_file/automatically/modules.order | scripts/mod/modpost -m -a  -o /home/training/sahil/ELDD/files/3_device_file/automatically/Module.symvers -e -i Module.symvers   -T -

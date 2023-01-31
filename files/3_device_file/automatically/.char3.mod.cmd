@@ -1,0 +1,1 @@
+cmd_/home/training/sahil/ELDD/files/3_device_file/automatically/char3.mod := { echo  /home/training/sahil/ELDD/files/3_device_file/automatically/char3.o;  echo; } > /home/training/sahil/ELDD/files/3_device_file/automatically/char3.mod
